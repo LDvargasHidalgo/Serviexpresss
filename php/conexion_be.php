@@ -1,6 +1,6 @@
 <?php
 
-    $conexion = mysqli_connect("localhost","root","","login_register");
+    $conexion = mysqli_connect("localhost","root","","serviexpress");
 /* 
     if($conexion){
         echo "Conectado exitosamente";

@@ -4,7 +4,7 @@
 
     <body>
         <?php include_once 'nav.php'; ?>      
-
+    
         <!-- CAROUSEL STAR -->
         <div class="carousel-container">
             <div class="carousel-slide">
@@ -50,11 +50,13 @@
 
 
         <div class="logo1"><img src="../assets/images/logo.png" alt="logo" /></div>
-
-        <?php include_once 'cards.php'; ?>
+    <div class="main-container">
+        <div class="cards-container">
+            <?php include_once 'cards.php'; ?>
+        </div>
 
         <?php include_once 'footer.php'; ?>
-
+    </div>
 
         <script src="../assets/script/main.js"></script>
     </body>

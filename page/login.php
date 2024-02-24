@@ -15,7 +15,7 @@
     <header>
         <div id="logo">
             <a href="index.php">
-                <img src="../assets/images/logo.png" alt="Nombre de tu empresa">
+                <img src="../assets/images/logo.png" alt="serviexpress">
             </a>
         </div>
     </header>

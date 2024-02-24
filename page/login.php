@@ -55,7 +55,8 @@
                     <input type="text" placeholder="Correo Electronico" name="email">
                     <input type="text" placeholder="Usuario" name="user">
                     <input type="password" placeholder="Contraseña" name="password">
-                    <button>Regístrarse</button>
+                    <button>Prestador Servicio</button>
+                    <button>Usuario</button>
                 </form>
             </div>
         </div>
